@@ -44,7 +44,7 @@ $ pip install random
 $ ls
 ```
 ```
-$ git clone https://github.com/noob-hackers/lazybee
+$ git clone https://github.com/tech-hacker-teach/lazybee
 ```
 ```
 $ ls
@@ -65,10 +65,10 @@ Name your wordlist wit (.txt) extensions: pass.txt
 WOW... you just created wordlist in hackers way.
 
 ### Subscribe our channel on youtube
-https://www.youtube.com/noobhackers
+https://www.youtube.com/channel/UC8ukN1SO0yramsIou7-kfbw?sub_confirmation=1
 
 ### Chekout our webite 
-https://www.noob-hackers.com
+http://techhackers03.blogspot.com/
      
 ### Warning
 
